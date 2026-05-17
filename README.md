@@ -68,6 +68,7 @@ structured financial data from all SEC-registered companies.
 https://www.sec.gov/dera/data/financial-statements
 
 Dataset used: 2025 Q4 (num.txt, sub.txt)
+(files were too large to upload)
 
 ---
 
